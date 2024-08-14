@@ -1,9 +1,5 @@
 # 506-practice-workflow
-Primer assignment for SBU MS AHI 504/507 Fall semester classes to practice a basic development workflow 
-
-# 506-practice-workflow
-Primer assignment for SBU MS AHI 504/507 Fall semester classes to practice a basic development workflow
-
+Primer assignment for SBU MS AHI 504/507 Fall semester classes to practice a basic development workflow.
 
 # Summary of variables
 The variabes I created relate to pulse rate readings.
